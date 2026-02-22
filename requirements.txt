@@ -1,1 +1,5 @@
-
+python-telegram-bot==20.7
+sqlite3
+aiofiles
+flask==2.3.3
+requests==2.31.0
